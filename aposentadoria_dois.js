@@ -1,9 +1,9 @@
 //APOSENTADORIA - a
 const nome_1 ={
-    nome: "Maria Klara",
-    idade: 98,
-    sexo: "F",
-    contribuição: 60,
+    nome: "Jefferson",
+    idade: 36,
+    sexo: "M",
+    contribuição: 8,
 
 }
 
